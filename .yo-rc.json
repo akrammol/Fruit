@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "FruitStore",
+    "packageName": "com.cybercom.fruitstore",
+    "packageFolder": "com/cybercom/fruitstore",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MzQwMGFlZjRiZjg2ZGM2M2JlNWI0ZjEyYzlmN2U4MTg3OGM5MDIwNDI2MWQ2NDk0NWUxNjI2ZDViNjFmZWZmNDJhYWExYTk5ZDUzMDUyZjk5NzM3NDdiMThhMDE5OTZhYmRkODY2YzRlOGZlZTBhOTAyNjcwMjhkMmQ5ODZlN2Q=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "akrammol",
+  "repository-name": "Fruit"
+}
